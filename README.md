@@ -1,2 +1,3 @@
 # Python-
-Using python to access web data Coursera Course and Data Structues
+Using Python to Access Web data Coursera Course
+Coursera Course Data Structures
